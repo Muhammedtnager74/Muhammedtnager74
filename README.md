@@ -1,74 +1,64 @@
-<h1 align="center">Hi 👋, I'm Mohamed Sameh Tnager</h1>
-<h3 align="center">Data Analyst & Data Engineer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Data+Engineer;Python+Developer;SQL+Expert&center=true&width=500&height=45">
-</p>
-
----
-
-## 🚀 About Me
-
+<h1 align="center">Hi 👋, I'm Mohamed Sameh Tnager</h1> <h3 align="center">Data Analyst | Cloud (AWS) | Networking</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Cloud+%26+AWS;Data+Engineering+(ETL);Python+%26+SQL;Networking+%26+Linux&center=true&width=500&height=45"> </p>
+🚀 About Me
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+🎓 B.Sc. in Information Technology, Faculty of Computers & Information, Menoufia University (2024)
+💼 Working in IT Operations / Data Operations at EgyptAir, on enterprise systems
+☁️ Currently studying Cloud Services (AWS) at the National Telecommunication Institute (NTI)
+⚙️ Build ETL pipelines using Python & SQL
+📊 Create interactive dashboards using Power BI
+🌐 Background in Networking (CCNA, TCP/IP) and Linux
+🔍 Strong in troubleshooting, root cause analysis & data quality
+🎯 Open to Data Analyst and Cloud Support / Cloud Associate roles
+🧠 Tech Stack
+💻 Programming & Data Analysis
 
-* 🎓 Computer Science Graduate – Menoufia University
-* 💡 Passionate about Data & Analytics
-* ⚙️ Build ETL pipelines using Python & SQL
-* 📊 Create dashboards using Power BI
-* 🔍 Strong in troubleshooting & data quality
-* 🎯 Looking for Application Support Role
+Show Image Show Image Show Image
 
----
+🗄️ Databases
 
-## 🧠 Tech Stack
+Show Image Show Image Show Image
 
-### 💻 Programming
+📊 Data Visualization
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+Show Image
 
-### 🗄️ Databases
+☁️ Cloud
 
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=database\&logoColor=white)
+Show Image Show Image
 
-### 📊 Data Visualization
+🐧 Systems & Networking
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+Show Image Show Image
 
-### ⚙️ Tools
+⚙️ Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+Show Image Show Image Show Image Show Image
 
----
+📂 Projects
+🛒 Olist E-Commerce Data Warehouse
 
-## 📂 Projects
+End-to-end ETL pipeline: CSVs → clean/validate → SQLite → SQL transformations → data quality checks → incremental loading, run from a single CLI script. Tech: Python, SQL, ETL
 
-### 🛒 Olist Data Warehouse
+📈 Sales & Profit Performance Dashboard
 
-🔗 https://github.com/Muhammedtnager74/Olist-E-Commerce-Data-Warehouse-SQL-Server-Python-ETL
+Interactive Power BI dashboard analyzing sales, profitability trends, discount impact, and regional performance with KPI visuals. Tech: Power BI
 
-### 🔄 File Converter
+⚽ Mohamed Salah Performance Analysis 2024–2025
 
-🔗 https://github.com/Muhammedtnager74/file_format_converter
+Football analytics project on finishing efficiency, creativity, and shooting metrics, compared against Europe's top leagues. Tech: Power BI, Python, Pandas
 
----
+🔄 File Format Converter
 
-## 📫 Connect
+Utility for converting files between formats. Tech: Python
 
-<p align="center">
-  <a href="mailto:mohamedmhmd0074@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+🎓 Certifications & Training
+📜 Microsoft PL-300: Power BI Data Analyst Associate (2026)
+📜 HackerRank SQL: Basic / Intermediate / Advanced
+☁️ Cloud Services (AWS): National Telecommunication Institute (NTI), in progress
+🌱 Currently
+Building hands-on AWS projects (compute, storage, networking, serverless)
+Preparing for AWS Cloud Practitioner and Solutions Architect Associate
+📫 Connect
+<p align="center"> <a href="mailto:mohamedmhmd0074@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/muhammed-tnager-ba147a3b6"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.hackerrank.com/profile/mohamedtnager74"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/> </a> </p>
 
-  <a href="https://www.linkedin.com/in/muhammed-tnager-ba147a3b6">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://www.hackerrank.com/profile/mohamedtnager74">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-</p>
-
----
-
-⭐ *Always learning, building, and improving...*
-
+⭐ Always learning, building, and improving...
